@@ -1,10 +1,5 @@
 [
   {
-    "source": "Google News - In Chinese",
-    "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ?hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-    "uniqueid": "LQ-TBqFy4DAHaywnTO81suXjD_DrTPyOl6rDc4PHE_A"
-  },
-  {
     "source": "Google News - Taiwan",
     "url": "https://news.google.com/rss/search?q=taiwan&hl=en-AU&gl=AU&ceid=AU%3Aen",
     "uniqueid": "adXlXjPVJMJ5vuD4IQ4PyQ1Zo3CtxPLyp_zCqiknj4A"
