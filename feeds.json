@@ -1,17 +1,32 @@
 [
   {
-    "source": "Sri Lanka tech not cricket",
-    "url": "https://news.google.com/rss/search?q=(%22Sri%20Lanka%22%20AND%20(technology%20OR%20tech))%20-cricket&hl=en-AU&gl=AU&ceid=AU%3Aen",
-    "uniqueid": "maCAYr6FNCvIFgfQJJUWNuLRDAvg2Lm9aQhlb8IpzhM"
+    "source": "Google News - In Chinese",
+    "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JYcG9MVlJYR2dKVVZ5Z0FQAQ?hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+    "uniqueid": "LQ-TBqFy4DAHaywnTO81suXjD_DrTPyOl6rDc4PHE_A"
   },
   {
-    "source": "GNews 總統罷免條件",
-    "url": "https://news.google.com/rss/search?q=總統罷免條件&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-    "uniqueid": "DPwlTrZS19VcFhcDRstR12Kn7tgs0J2bJSypoWC3goI"
+    "source": "Google News - Taiwan",
+    "url": "https://news.google.com/rss/search?q=taiwan&hl=en-AU&gl=AU&ceid=AU%3Aen",
+    "uniqueid": "adXlXjPVJMJ5vuD4IQ4PyQ1Zo3CtxPLyp_zCqiknj4A"
   },
   {
-    "source": "Subcables",
-    "url": "https://news.google.com/rss/search?q=%22submarine%20cable%22%20OR%20%22undersea%20cable%22%20OR%20%22subsea%20cable%22%20OR%20%22ocean%20cable%22%20OR%20%22subcables%22",
-    "uniqueid": "RFpqox0asidQzIqGl6Uwt_cZqMfugpe_64yssj64TeY"
+    "source": "CNA - World",
+    "url": "https://feeds.feedburner.com/rsscna/intworld",
+    "uniqueid": "qoa7rhHh4ERG6bW5Dc47QX_0FUKpOHmxw9gwLTQWWGM"
+  },
+  {
+    "source": "CNA - Mainland",
+    "url": "https://feeds.feedburner.com/rsscna/mainland",
+    "uniqueid": "Q4161tt8FRzm3dk-YfAzmLNckga4MxEcmH_osIx5kgA"
+  },
+  {
+    "source": "CNA - Politics",
+    "url": "https://feeds.feedburner.com/rsscna/politics",
+    "uniqueid": "urtnSIrLnN9DSgj0IY23mUuEDJ60djqb8C_tQtC7_QE"
+  },
+  {
+    "source": "MOFA Press Releases",
+    "url": "https://en.mofa.gov.tw/OpenData.aspx?SN=59E409659FC2E103",
+    "uniqueid": "V5R_V5n3qBnW1BaiOMWfSpseD4mt1OE48WlpS3PW1Ew"
   }
 ]
